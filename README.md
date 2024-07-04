@@ -6,15 +6,16 @@
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patri-lago/)
 
 <!--
-[![](https://img.shields.io/badge/Página_Web-yelow?style=for-the-badge&logo=medium&logoColor=white)](https://portfolio/)
+[![](https://img.shields.io/badge/Página_Web-yelow?style=for-the-badge&logo=medium&logoColor=white)](https://futuro-portfolio/)
 -->
+
 <div id="badges" align="center">
 <img decoding="async" src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=patriiilago.patriiilago&color=00cf00" alt=""/>
 <h1>
   Hi, I'm Patri, nice to meet you!
   <img decoding="async" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-
+</div>
 
  <div id="header" align="left">
 
@@ -87,9 +88,13 @@ const patri = {
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
 </a> 
 </p>
+
+
+
 <!--
 <p>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=patriiilago&show_icons=true&locale=en&layout=compact" alt="patriiilago" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patriiilago&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 -->
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
