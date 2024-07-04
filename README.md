@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img decoding="async" src="https://github.com/patriiilago/patriiilago/assets/156330718/4c99ac10-4f70-4139-b6d3-3c7808c455fd" 
+  <img decoding="async" src="https://github.com/patriiilago/patriiilago/assets/156330718/d93f5f80-84fd-414c-aa4c-21bc7f493a42" 
     width="100%"/>
 </div>
 
@@ -23,7 +23,7 @@
 ###  A little more about me...  
 
 ```javascript
-const teresa = {
+const patri = {
   pronouns: "she" | "her",
   code: [Javascript, HTML, CSS],
   tools: [React, Node],
