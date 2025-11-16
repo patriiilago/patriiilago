@@ -3,116 +3,67 @@
     width="100%"/>
 </div>
 
-<div id="badges" align="center">
-  
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patri-lago/)
-
-<!--
-[![](https://img.shields.io/badge/Página_Web-yelow?style=for-the-badge&logo=medium&logoColor=white)](https://futuro-portfolio/)
--->
-
-<div id="badges" align="center">
-<img decoding="async" src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=patriiilago.patriiilago&color=00cf00" alt=""/>
-<h1>
-  Hi, I'm Patri, nice to meet you!
-  <img decoding="async" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+---
 
 
- <div id="header" align="left">
+# 👋 ¡Hola! Soy Patri
+<div align="center">
+Soy una desarrolladora frontend apasionada por JavaScript y la lógica detrás del código.  Tras completar el bootcamp de **Ironhack Fullstack 2024**,  me encuentro en plena búsqueda de mi primer trabajo profesional en desarrollo web, con muchas ganas y motivación para crecer.
 
-
-
-###  A little more about me...  
-
-```javascript
-const patri = {
-  pronouns: "she" | "her",
-  code: [Javascript, HTML, CSS],
-  tools: [React, Node],
-  passions: ["performance web", "web development"],
-}
-```
-
-
-
-
-- 🌱 I’m currently learning **Java**
-
-- 💬 Ask me about **React, JS**
-
-- 📫 How to reach me  [![Linkedin Badge](https://img.shields.io/badge/-Patri-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/patri-lago/) 
-
-
-
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="center"> 
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
-</a> 
-<a href="https://canvasjs.com" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> 
-</a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-</a> 
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
-</a> 
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
-</a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-</a> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-</a> 
-<a href="https://jasmine.github.io/" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" alt="jasmine" width="40" height="40"/> 
-</a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-</a> 
-<a href="https://jestjs.io" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> 
-</a> 
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-</a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-</a> 
-<a href="https://postman.com" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
-</a> 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-</a> 
-</p>
-
-
-
-<!--
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=patriiilago&show_icons=true&locale=en&layout=compact" alt="patriiilago" />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patriiilago&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-</p>
--->
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+Mi experiencia profesional previa, aunque no en tecnología, me ha enseñado el valor del trabajo en equipo, la responsabilidad y la disciplina — cualidades que llevo conmigo en cada línea de código. He vivido en Malta para mejorar mi inglés, un idioma que me apasiona y que uso para abrir puertas en el mundo tecnológico.
+</div>
 
 ---
-<!--
-**patriiilago/patriiilago** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Mi camino hacia el código
+<div align="center">
+Desde pequeña siempre me ha gustado dedicarme a aquello que me apasiona tanto que pierdo la noción del tiempo. Así descubrí que la programación es ese “flow” para mí: horas resolviendo problemas, creando interfaces, y disfrutando el proceso creativo.
+
+Actualmente estoy ampliando conocimientos en backend (PHP, MySQL, sistemas informáticos) mientras sigo perfeccionando mi frontend, donde me siento más cómoda y experta. Mi base sólida en **HTML, CSS y JavaScript** es mi punto fuerte, y disfruto especialmente trabajar con frameworks modernos como React.
+</div>
+
+---
+
+
+## 🛠 Stack Principal y Tecnologías
+
+<div align="center">
+  <!-- Línea 1: Frontend -->
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/Bootstrap-%238511FA?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+  <br>
+  <!-- Línea 2: Backend / Bases de datos / Herramientas -->
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
+  <img src="https://img.shields.io/badge/PHP-%23777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA44B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+</div>
+
+---
+
+
+## 🚀 Proyectos y Portfolio
+
+* [**Mi Portfolio Web**]((https://patrilago.netlify.app/))
+
+---
+
+
+## 📊 Mi Actividad en GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=patriiilago&layout=compact&theme=radical" alt="Top Languages" />
+</div>
+
+---
+
+
+### 🔗 Conexión
+
+Estoy disponible para colaboraciones y nuevos desafíos técnicos y laborales.
