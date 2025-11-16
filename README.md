@@ -1,9 +1,6 @@
-<div id="header" align="center">
-  <img decoding="async" src="https://github.com/patriiilago/patriiilago/assets/156330718/d93f5f80-84fd-414c-aa4c-21bc7f493a42" 
-    width="100%"/>
-</div>
 
----
+![MasterHead](https://res.cloudinary.com/dxfey6stw/image/upload/v1763299936/Banner_Patri_Lago.png)
+
 
 
 # 👋 ¡Hola! Soy Patri
