@@ -1,5 +1,5 @@
 
-![MasterHead](https://res.cloudinary.com/dxfey6stw/image/upload/v1763299936/Banner_Patri_Lago.png)
+![MasterHead](https://res.cloudinary.com/dxfey6stw/image/upload/v1763299936/RRSS/Banner_Patri_Lago.png)
 
 
 
@@ -51,7 +51,7 @@ Actualmente estoy ampliando conocimientos en backend (PHP, MySQL, sistemas infor
 
 ---
 
-
+ <!--  
 ## 📊 Mi Actividad en GitHub
 
 <div align="center">
@@ -59,7 +59,7 @@ Actualmente estoy ampliando conocimientos en backend (PHP, MySQL, sistemas infor
 </div>
 
 ---
-
+-->
 
 ### 🔗 Conexión
 
