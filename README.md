@@ -51,7 +51,7 @@ Actualmente estoy ampliando conocimientos en backend (PHP, MySQL, sistemas infor
 
 ---
 
- <!--  
+
 ## 📊 Mi Actividad en GitHub
 
 <div align="center">
@@ -59,7 +59,7 @@ Actualmente estoy ampliando conocimientos en backend (PHP, MySQL, sistemas infor
 </div>
 
 ---
--->
+
 
 ### 🔗 Conexión
 
