@@ -54,9 +54,10 @@ Actualmente estoy ampliando conocimientos en backend (PHP, MySQL, sistemas infor
 
 ## 📊 Mi Actividad en GitHub
 
-<div align="center">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=patriiilago&layout=compact&theme=radical" alt="Top Languages" />
-</div>
+</p>
+
 
 ---
 
