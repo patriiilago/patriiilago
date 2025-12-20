@@ -47,7 +47,7 @@ Actualmente estoy ampliando conocimientos en backend (PHP, MySQL, sistemas infor
 
 ## 🚀 Proyectos y Portfolio
 
-* [**Mi Portfolio Web**](https://patrilago.netlify.app/)
+* [**Mi Portfolio Web**](https://patrilago.com)
 
 ---
 
