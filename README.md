@@ -1,5 +1,5 @@
 
-![MasterHead](https://res.cloudinary.com/dxfey6stw/image/upload/v1763299936/RRSS/Banner_Patri_Lago.png)
+![MasterHead](https://res.cloudinary.com/dxfey6stw/image/upload/v1776002705/Banner_Patri_Lago-Linkedin_hlly26.png)
 
 
 
