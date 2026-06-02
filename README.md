@@ -1,13 +1,23 @@
 
-![MasterHead](https://res.cloudinary.com/dxfey6stw/image/upload/v1776002705/Banner_Patri_Lago-Linkedin_hlly26.png)
+![MasterHead](https://res.cloudinary.com/dxfey6stw/image/upload/v1780388653/RRSS/technology-1283624_1920-881x496-1-881x441-1_o4rjwf.jpg)
 
 
 
 # 👋 ¡Hola! Soy Patri
 <div align="center">
-Soy una desarrolladora frontend apasionada por JavaScript y la lógica detrás del código.  Tras completar el bootcamp de **Ironhack Fullstack 2024**,  me encuentro en plena búsqueda de mi primer trabajo profesional en desarrollo web, con muchas ganas y motivación para crecer.
+Me enganché al código la primera vez que vi cómo unas pocas líneas podían cambiarlo todo. Desde entonces no he parado.
 
-Mi experiencia profesional previa, aunque no en tecnología, me ha enseñado el valor del trabajo en equipo, la responsabilidad y la disciplina — cualidades que llevo conmigo en cada línea de código. He vivido en Malta para mejorar mi inglés, un idioma que me apasiona y que uso para abrir puertas en el mundo tecnológico.
+Disfruto del ciclo completo de desarrollo: pensar la arquitectura, construir la lógica y asegurar que lo que se ve en pantalla tenga tanto peso como lo que ocurre por detrás. Para mí, frontend y backend no son especialidades separadas, sino dos partes del mismo sistema.
+
+He desarrollado un e-commerce de principio a fin para un cliente real utilizando WordPress, PHP y CSS. Además, el proyecto final de mi equipo en Ironhack quedó en segundo lugar en el Hackshow.
+
+Cuando algo no funciona, no busco atajos: me quedo con el error hasta entenderlo. No por obligación, sino porque es la parte del proceso que más disfruto. Como dice Gunner McGrath: “Los programadores se pasan la mitad del tiempo arreglando errores, y la otra mitad creándolos.” Me identifico bastante con esa idea.
+
+En diseño tiendo al minimalismo con intención: colores que encajan, detalles que suman e interfaces que el cliente quiere enseñar. El código no solo tiene que funcionar, también tiene que estar bien construido.
+
+Trabajo con objetivos claros, avanzando de lo general a lo específico y organizándome para mantener un progreso constante.
+
+Full stack developer. Frontend, backend y todo lo que haga falta.
 </div>
 
 ---
@@ -15,9 +25,11 @@ Mi experiencia profesional previa, aunque no en tecnología, me ha enseñado el 
 
 ## 💻 Mi camino hacia el código
 <div align="center">
-Desde pequeña siempre me ha gustado dedicarme a aquello que me apasiona tanto que pierdo la noción del tiempo. Así descubrí que la programación es ese “flow” para mí: horas resolviendo problemas, creando interfaces, y disfrutando el proceso creativo.
+Siempre he buscado dedicarme a aquello que me hace perder la noción del tiempo. En la programación encontré exactamente eso: horas resolviendo problemas, construyendo interfaces y disfrutando del proceso creativo.
 
-Actualmente estoy ampliando conocimientos en backend (PHP, MySQL, sistemas informáticos) mientras sigo perfeccionando mi frontend, donde me siento más cómoda y experta. Mi base sólida en **HTML, CSS y JavaScript** es mi punto fuerte, y disfruto especialmente trabajar con frameworks modernos como React.
+Completé el bootcamp de Ironhack Fullstack 2024, donde consolidé una base sólida en HTML, CSS y JavaScript, y trabajé en proyectos reales utilizando tecnologías como PHP y WordPress.
+
+Mi experiencia previa fuera del sector tecnológico me ha aportado disciplina, responsabilidad y capacidad de trabajo en equipo, cualidades que aplico en cada proyecto. Además, viví en Malta para mejorar mi inglés, un idioma que utilizo activamente en mi desarrollo profesional.
 </div>
 
 ---
