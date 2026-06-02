@@ -1,6 +1,6 @@
 
 ![MasterHead](https://res.cloudinary.com/dxfey6stw/image/upload/c_fill,g_auto,h_200,w_970/b_rgb:000000,e_gradient_fade,y_-0.3/c_scale,w_0.5,y_0.18/v1780388653/RRSS/technology-1283624_1920-881x496-1-881x441-1_o4rjwf.jpg)
-![MasterHead](https://res.cloudinary.com/dxfey6stw/image/upload/c_fill,g_auto,h_250,w_1200/b_rgb:000000,e_gradient_fade,y_-0.3/c_scale,w_0.5,y_0.18/v1780388653/RRSS/technology-1283624_1920-881x496-1-881x441-1_o4rjwf.jpg)
+![MasterHead](https://res.cloudinary.com/dxfey6stw/image/upload/c_fill,g_auto,h_250,w_970/b_rgb:000000,e_gradient_fade,y_-0.50/c_scale,w_0.5,y_0.18/v1780388653/RRSS/technology-1283624_1920-881x496-1-881x441-1_o4rjwf.jpg)
 
 
 # 👋 ¡Hola! Soy Patri
